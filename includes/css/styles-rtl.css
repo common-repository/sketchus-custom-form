@@ -1,0 +1,13 @@
+span.skfom-not-valid-tip {
+	direction: rtl;
+}
+
+.use-floating-validation-tip span.skfom-not-valid-tip { 
+	left: auto;
+	right: 20%;
+}
+
+span.skfom-list-item {
+	margin-left: 0;
+	margin-right: 0.5em;
+}

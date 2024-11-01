@@ -1,0 +1,90 @@
+div.skfom {
+	margin: 0;
+	padding: 0;
+}
+
+div.skfom-response-output {
+	margin: 2em 0.5em 1em;
+	padding: 0.2em 1em;
+}
+
+div.skfom .screen-reader-response {
+	position: absolute;
+	overflow: hidden;
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px;
+	width: 1px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+div.skfom-mail-sent-ok {
+	border: 2px solid #398f14;
+}
+
+div.skfom-mail-sent-ng {
+	border: 2px solid #ff0000;
+}
+
+div.skfom-spam-blocked {
+	border: 2px solid #ffa500;
+}
+
+div.skfom-validation-errors {
+	border: 2px solid #f7e700;
+}
+
+.skfom-form-control-wrap {
+	position: relative;
+}
+
+span.skfom-not-valid-tip {
+	color: #f00;
+	font-size: 1em;
+	display: block;
+}
+
+.use-floating-validation-tip span.skfom-not-valid-tip {
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	z-index: 100;
+	border: 1px solid #ff0000;
+	background: #fff;
+	padding: .2em .8em;
+}
+
+span.skfom-list-item {
+	margin-left: 0.5em;
+}
+
+.skfom-display-none {
+	display: none;
+}
+
+div.skfom img.ajax-loader {
+	border: none;
+	
+	margin-left: 4px;
+}
+
+div.skfom div.ajax-error {
+	display: none;
+}
+
+div.skfom .placeheld {
+	color: #888;
+}
+#Ufirst-name
+{float:left;
+width:30%;
+}
+#Ulast-name
+{float:right;
+width:30%
+}
+
+contact
+{background-color:grey;
+}
